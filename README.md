@@ -1,4 +1,4 @@
-# This is a unit selector program writen in python
+# This is a unit selector program written in python
 <br/>
 By using this, students of this university called 'Khayyam' can automatically select their units for the upcoming semester.
 <br/>
